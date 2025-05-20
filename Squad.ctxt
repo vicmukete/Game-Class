@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ Holds\ a\ group\ of\ units\r\n\r\n\ \ @author\ Victor\ Mukete\ (906540931)\r\n\ \ @version\ (2025.04.01)\r\n
+comment1.params=name
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ name\ takes\ name\ value\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ Returns\ the\ list\ of\ characters\ in\ a\ unit\r\n\ @return\ returns\ list\r\n
+comment3.params=unit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ Adds\ a\ new\ character\ into\ the\ squad\r\n\ @param\ unit\ takes\ in\ a\ unit\ char\r\n
+comment4.params=unit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ Removes\ a\ unit/char\ from\ the\ squad\r\n\ @param\ unit\ takes\ in\ a\ unit\ char\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ returns\ the\ total\ number\ of\ points\ of\ the\ squad\r\n\ @return\ returns\ int\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ the\ squad\ units\ and\ their\ stats\r\n\ @return\ returns\ string\r\n
+numComments=7

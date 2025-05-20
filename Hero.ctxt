@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ A\ type\ of\ character\ class\r\n\r\n\ \ @author\ Victor\ Mukete\ (906540931)\r\n\ \ @version\ (2025.04.01)\r\n
+comment1.params=name\ points
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Hero\ object.\r\n\ @param\ name\ takes\ new\ name\r\n\ @param\ points\ takes\ new\ points\r\n
+numComments=2

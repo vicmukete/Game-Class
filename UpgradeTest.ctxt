@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UpgradeTest
+comment0.text=\r\n\ \ Tests\ the\ upgrade\ class\r\n\r\n\ \ @author\ Victor\ Mukete\ (906540931)\r\n\ \ @version\ (2025.04.02)\r\n
+comment1.params=
+comment1.target=UpgradeTest()
+comment1.text=\r\n\ Creates\ a\ new\ UpgradeTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testToString()
+comment3.text=\r\n\ Tests\ the\ toString\ method\r\n
+comment4.params=
+comment4.target=void\ testGetPoints()
+comment4.text=\r\n\ tests\ the\ getPoints\ method\r\n
+comment5.params=
+comment5.target=void\ testGetName()
+comment5.text=\r\n\ \r\n\ tests\ the\ getName\ method\r\n
+numComments=6

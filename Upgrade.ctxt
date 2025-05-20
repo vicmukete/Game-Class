@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ Upgrade\ class\ for\ unit.\ Determines\ what\ upgrades\r\n\ \ a\ unit\ has\r\n\r\n\ \ @author\ Victor\ Mukete\ (906540931)\r\n\ \ @version\ (2025.04.01)\r\n
+comment1.params=name\ points
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ name\ takes\ in\ name\r\n\ @param\ points\ takes\ in\ points\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ returns\ the\ name\ of\ the\ upgrade\r\n\ @return\ returns\ name\r\n
+comment3.params=
+comment3.target=int\ getPoints()
+comment3.text=\r\n\ Returns\ the\ points\ of\ the\ upgrade\r\n\ @return\ returns\ int\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ the\ upgrade\ name\ and\ points\ in\ a\ string\r\n\ @return\ returns\ string\r\n
+numComments=5

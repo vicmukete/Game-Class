@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameElement
+comment0.text=\r\n\ \ Interface\ each\ class\ implements\ from\r\n\r\n\ \ @author\ Victor\ Mukete\ (906540931)\r\n\ \ @version\ (2025.04.01)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Get\ this\ GameElement's\ name.\r\n\r\n\ @return\ This\ object's\ name\ as\ a\ string.\r\n
+comment2.params=
+comment2.target=int\ getPoints()
+comment2.text=\r\n\ Get\ this\ GameElement's\ cost\ in\ points.\r\n\r\n\ @return\ The\ number\ of\ points\ for\ this\ object.\r\n
+numComments=3
